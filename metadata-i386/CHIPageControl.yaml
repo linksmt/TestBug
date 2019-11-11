@@ -1,0 +1,572 @@
+---
+Module:          
+  FullName:        CHIPageControl
+  IsPartOfFramework: true
+  IsSystemModule:  false
+  Libraries:       
+    - Library:         CHIPageControl
+      IsFramework:     true
+Items:           
+  - Name:            _TtC14CHIPageControl18CHIBasePageControl
+    JsName:          CHIBasePageControl
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+    Module:          
+      FullName:        CHIPageControl.Swift
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+      - Name:            'setWithProgress:animated:'
+        JsName:          setWithProgressAnimated
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Method
+        Signature:       
+          - Type:            Void
+          - Type:            Int
+          - Type:            Bool
+    StaticMethods:   
+    InstanceProperties: 
+      - Name:            borderWidth
+        JsName:          borderWidth
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            borderWidth
+          JsName:          borderWidth
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Float
+        Setter:          
+          Name:            'setBorderWidth:'
+          JsName:          setBorderWidth
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Float
+      - Name:            currentPageTintColor
+        JsName:          currentPageTintColor
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            currentPageTintColor
+          JsName:          currentPageTintColor
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Interface
+              JsName:          UIColor
+              WithProtocols:   
+        Setter:          
+          Name:            'setCurrentPageTintColor:'
+          JsName:          setCurrentPageTintColor
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Interface
+              JsName:          UIColor
+              WithProtocols:   
+      - Name:            hidesForSinglePage
+        JsName:          hidesForSinglePage
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            hidesForSinglePage
+          JsName:          hidesForSinglePage
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Bool
+        Setter:          
+          Name:            'setHidesForSinglePage:'
+          JsName:          setHidesForSinglePage
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Bool
+      - Name:            inactiveTransparency
+        JsName:          inactiveTransparency
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            inactiveTransparency
+          JsName:          inactiveTransparency
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Float
+        Setter:          
+          Name:            'setInactiveTransparency:'
+          JsName:          setInactiveTransparency
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Float
+      - Name:            numberOfPages
+        JsName:          numberOfPages
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            numberOfPages
+          JsName:          numberOfPages
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Int
+        Setter:          
+          Name:            'setNumberOfPages:'
+          JsName:          setNumberOfPages
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Int
+      - Name:            padding
+        JsName:          padding
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            padding
+          JsName:          padding
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Float
+        Setter:          
+          Name:            'setPadding:'
+          JsName:          setPadding
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Float
+      - Name:            progress
+        JsName:          progress
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            progress
+          JsName:          progress
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Double
+        Setter:          
+          Name:            'setProgress:'
+          JsName:          setProgress
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Double
+      - Name:            radius
+        JsName:          radius
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            radius
+          JsName:          radius
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Float
+        Setter:          
+          Name:            'setRadius:'
+          JsName:          setRadius
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Float
+    StaticProperties: 
+    Protocols:       
+    Base:            UIControl
+  - Name:            _TtC14CHIPageControl17CHIPageControlAji
+    JsName:          CHIPageControlAji
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+    Module:          
+      FullName:        CHIPageControl.Swift
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+    StaticMethods:   
+    InstanceProperties: 
+    StaticProperties: 
+    Protocols:       
+    Base:            CHIBasePageControl
+  - Name:            _TtC14CHIPageControl20CHIPageControlAleppo
+    JsName:          CHIPageControlAleppo
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+    Module:          
+      FullName:        CHIPageControl.Swift
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+    StaticMethods:   
+    InstanceProperties: 
+    StaticProperties: 
+    Protocols:       
+    Base:            CHIBasePageControl
+  - Name:            _TtC14CHIPageControl21CHIPageControlChimayo
+    JsName:          CHIPageControlChimayo
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+    Module:          
+      FullName:        CHIPageControl.Swift
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+    StaticMethods:   
+    InstanceProperties: 
+    StaticProperties: 
+    Protocols:       
+    Base:            CHIBasePageControl
+  - Name:            _TtC14CHIPageControl20CHIPageControlFresno
+    JsName:          CHIPageControlFresno
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+    Module:          
+      FullName:        CHIPageControl.Swift
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+    StaticMethods:   
+    InstanceProperties: 
+    StaticProperties: 
+    Protocols:       
+    Base:            CHIBasePageControl
+  - Name:            _TtC14CHIPageControl22CHIPageControlJalapeno
+    JsName:          CHIPageControlJalapeno
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+    Module:          
+      FullName:        CHIPageControl.Swift
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+    StaticMethods:   
+    InstanceProperties: 
+    StaticProperties: 
+    Protocols:       
+    Base:            CHIBasePageControl
+  - Name:            _TtC14CHIPageControl20CHIPageControlJaloro
+    JsName:          CHIPageControlJaloro
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+    Module:          
+      FullName:        CHIPageControl.Swift
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+    StaticMethods:   
+    InstanceProperties: 
+      - Name:            elementHeight
+        JsName:          elementHeight
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            elementHeight
+          JsName:          elementHeight
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Float
+        Setter:          
+          Name:            'setElementHeight:'
+          JsName:          setElementHeight
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Float
+      - Name:            elementWidth
+        JsName:          elementWidth
+        Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+        Module:          
+          FullName:        CHIPageControl.Swift
+          IsPartOfFramework: true
+          IsSystemModule:  false
+          Libraries:       
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Property
+        Getter:          
+          Name:            elementWidth
+          JsName:          elementWidth
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Float
+        Setter:          
+          Name:            'setElementWidth:'
+          JsName:          setElementWidth
+          Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+          Module:          
+            FullName:        CHIPageControl.Swift
+            IsPartOfFramework: true
+            IsSystemModule:  false
+            Libraries:       
+          Flags:           [ IsIosAppExtensionAvailable ]
+          Type:            Method
+          Signature:       
+            - Type:            Void
+            - Type:            Float
+    StaticProperties: 
+    Protocols:       
+    Base:            CHIBasePageControl
+  - Name:            _TtC14CHIPageControl21CHIPageControlPaprika
+    JsName:          CHIPageControlPaprika
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+    Module:          
+      FullName:        CHIPageControl.Swift
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+    StaticMethods:   
+    InstanceProperties: 
+    StaticProperties: 
+    Protocols:       
+    Base:            CHIBasePageControl
+  - Name:            _TtC14CHIPageControl18CHIPageControlPuya
+    JsName:          CHIPageControlPuya
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-Swift.h
+    Module:          
+      FullName:        CHIPageControl.Swift
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+    StaticMethods:   
+    InstanceProperties: 
+    StaticProperties: 
+    Protocols:       
+    Base:            CHIBasePageControl
+  - Name:            CHIPageControlVersionNumber
+    JsName:          CHIPageControlVersionNumber
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-umbrella.h
+    Module:          
+      FullName:        CHIPageControl
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+        - Library:         CHIPageControl
+          IsFramework:     true
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Var
+    Signature:       
+      Type:            Double
+  - Name:            CHIPageControlVersionString
+    JsName:          CHIPageControlVersionString
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/CHIPageControl/CHIPageControl.framework/Headers/CHIPageControl-umbrella.h
+    Module:          
+      FullName:        CHIPageControl
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+        - Library:         CHIPageControl
+          IsFramework:     true
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Var
+    Signature:       
+      Type:            IncompleteArray
+      ArrayType:       
+        Type:            UChar
+...

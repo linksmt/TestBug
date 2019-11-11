@@ -1,0 +1,1 @@
+/// <reference path="./typings/x86_64/objc!CHIPageControl.d.ts" />

@@ -1,0 +1,40 @@
+---
+Module:          
+  FullName:        Pods_TestBug
+  IsPartOfFramework: true
+  IsSystemModule:  false
+  Libraries:       
+    - Library:         Pods_TestBug
+      IsFramework:     true
+Items:           
+  - Name:            Pods_TestBugVersionNumber
+    JsName:          Pods_TestBugVersionNumber
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/Pods_TestBug.framework/Headers/Pods-TestBug-umbrella.h
+    Module:          
+      FullName:        Pods_TestBug
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+        - Library:         Pods_TestBug
+          IsFramework:     true
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Var
+    Signature:       
+      Type:            Double
+  - Name:            Pods_TestBugVersionString
+    JsName:          Pods_TestBugVersionString
+    Filename:        /Users/politom/Documents/Workspace/GitHub/TestBug/platforms/ios/build/Debug-iphonesimulator/Pods_TestBug.framework/Headers/Pods-TestBug-umbrella.h
+    Module:          
+      FullName:        Pods_TestBug
+      IsPartOfFramework: true
+      IsSystemModule:  false
+      Libraries:       
+        - Library:         Pods_TestBug
+          IsFramework:     true
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Var
+    Signature:       
+      Type:            IncompleteArray
+      ArrayType:       
+        Type:            UChar
+...
